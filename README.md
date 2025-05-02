@@ -1,1 +1,1 @@
-Sostituisci il logo AMS di default (solo avvio fusee.bin)
+Replace the default AMS logo (only start fusee.bin)
